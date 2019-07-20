@@ -16692,4 +16692,11 @@
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
 # Google XN End
 
+#Disable Corel 
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+#Disable Corel End
+
 # Modified Hosts End
